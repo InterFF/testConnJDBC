@@ -46,7 +46,7 @@ import utils.PropertiesReader;
 						}
 					}
 				} catch (Exception e) {
-					System.out.println("初始化配置参数错误!\t");
+					System.out.println("初49始化配置参数错误!\t");
 					e.printStackTrace();
 					return;
 				}
