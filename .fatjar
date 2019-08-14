@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue May 14 11:21:52 CST 2019
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TestConnJDBC_fat.jar
+manifest.mergeall=true
+manifest.mainclass=core.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
