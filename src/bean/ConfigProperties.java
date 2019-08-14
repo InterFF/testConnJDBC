@@ -1,5 +1,10 @@
 package bean;
 
+/**
+ *     数据库配置参数
+ * @author JBL
+ *
+ */
 public class ConfigProperties {
 	/**JDBC文件路径*/
 	public static String PATH;
