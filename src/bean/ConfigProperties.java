@@ -2,6 +2,7 @@ package bean;
 
 /**
  *     数据库配置参数
+ *     在本地修改
  * @author JBL
  *
  */
